@@ -2,5 +2,3 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![Kuinas snake gif](https://github.com/smritimallick/smritimallick/blob/output/github-contribution-grid-snake.gif)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smritimallick&show_icons=true&hide_border=true&theme=algolia&locale=en&layout=compact" alt="kuina" /></p>
